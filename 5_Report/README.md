@@ -78,7 +78,7 @@
 # DESIGN
 
 ## STRUCTURAL IMAGE
-* ![Case Diagram]
+* ![Case Diagram]https://github.com/PrakritigitHUB/M2_HeatControlSystem/blob/main/2_Architecture/Case%20diagram.jpg
 * ![Class Diagram]
 
 ## BEHAVIORAL IMAGE
