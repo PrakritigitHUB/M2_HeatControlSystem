@@ -1,4 +1,14 @@
 ## Introduction
+* The Heat Control System is basically used to control the temperature of a car seat. 
+* A Heated seats are a standard feature on many vehicles thesedays in cold areas. 
+* They provide the driver and passengers with a pleasantly warm seat at all times, even in winter.
+* Heated seats are used increasingly in conjunction with climate controlled ventilation, which removes any condensing moisture from the seat.
+* When a user or driver gets seated on a car, the button sensor gets activated. After that, the user gets access to turn on the heater. 
+* The temperature sensor keeps monitoring the temperature and sends the analog value to the microcontroller.
+* The microcontroller processes the analog input of the temperature sensor and outputs a temperature value through serial communication.
+* All the activities of the control system are done on a microcontroller called Atmega328.
+* The desired temperature is usually set in several levels.
+* This can be activated by control of knob which will be allotted for it or by actuating the buttons manually , depending on the configuration installed. 
 
 
  ## Objectives
