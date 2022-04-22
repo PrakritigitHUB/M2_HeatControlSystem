@@ -32,31 +32,65 @@
 |6_ImagesandVideos|All the images and program execution video|
 
 
+### Strengths
+
+* Easy adoptable system.
+* We can adjust temperature accordingly in a easier way.
+* Flexible Approach
+* It's a cost-effective and a robust system.
+
+### Weakness
+
+* Its only applicable for those countries which are having low temperature.
+
+### Opportunities
+
+* We can covert this system to both heater and cooler application.
+
+### Threats
+
+* Doesn't fit good for the places where the temperature is above 20 degree Celsius.
 
 
+## HIGH LEVEL REQUIREMENTS
 
+| **Requirements** | **Description** |
+| --- | --- |
+| HLR1 | Microcontroller |
+| HLR2 | Temperature Sensor |
+| HLR3 | LCD Display or LEDs |
+| HLR4 | Temprature Generation |
+| HLR5 | Softwares to Implement |
 
+## LOW LEVEL REWUIREMENTS
+
+| **Requirements** | **Description** |
+| --- | --- |
+| LLR1 | ATmega328 |
+| LLR2 | LM35 and ADC |
+| LLR3 | ADC with PWM |
+| LLR4 | LCD OR LEDS |
+| LLR5 | Heat Pump Module |
+| LLR6 | Code Blocks with AVR GCC compiler |
+| LLR7 | SimulIDE |
 
 
 # DESIGN
 
 ## STRUCTURAL IMAGE
-* ![Case Diagram]https://github.com/PrakritigitHUB/M1_LibraryManagementSystem/blob/main/2_Design/case%20diag%202.png
-* ![Class Diagram]https://github.com/PrakritigitHUB/M1_LibraryManagementSystem/blob/main/2_Design/class%20diagram.png
-
+* ![Case Diagram]
+* ![Class Diagram]
 
 ## BEHAVIORAL IMAGE
-* ![State Diagram]https://github.com/PrakritigitHUB/M1_LibraryManagementSystem/blob/main/2_Design/State%20diagram.png
-* ![Sequence Daigram]https://github.com/PrakritigitHUB/M1_LibraryManagementSystem/blob/main/2_Design/Sequence%20diagram.jpg
-
+* ![State Diagram]
+* ![Sequence Daigram]
 
 
 # CODE IMPLEMENTATION
-* The code for Library Management System is written using C language, so that it is easy to be understood by the users,i.e. it becomes user-friendly.
-* This code consists of functions,pointers,etc. and also the file handling concept is used here.
+* The code for Heat Control System is written using embedded C language, so that it is easy to be understood by the users,i.e. it becomes user-friendly.
 * The entire code is then written in the format of mutiple .c files and .h files.
 * The code is run and implemented and then it is converted to makefile so that it would run on any machine irrespective of the OS.
-* Unit Testing and code quality is also checked.
+* Code quality is also checked.
 * Code analysis and documentation is done.
 
 
