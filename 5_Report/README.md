@@ -83,7 +83,7 @@
 
 ## BEHAVIORAL IMAGE
 * ![State Diagram]https://github.com/PrakritigitHUB/M2_HeatControlSystem/blob/main/2_Architecture/State%20Diagram.jpg
-* ![Sequence Daigram]
+* ![Sequence Daigram]https://github.com/PrakritigitHUB/M2_HeatControlSystem/blob/main/2_Architecture/Sequence%20diagram.png
 
 
 # CODE IMPLEMENTATION
@@ -94,25 +94,6 @@
 * Code analysis and documentation is done.
 
 
-
 # Test Plan and Output
 
-## Screenshots
 
-### Add New books
-![img](https://github.com/PrakritigitHUB/M1_LibraryManagementSystem/blob/main/6_Images/addbook.png)
-
-### View books
-![img](https://github.com/PrakritigitHUB/M1_LibraryManagementSystem/blob/main/6_Images/viewbooks.png)
-
-### Issue books
-![img](https://github.com/PrakritigitHUB/M1_LibraryManagementSystem/blob/main/6_Images/issuebook.png)
-
-### Search books
-![img](https://github.com/PrakritigitHUB/M1_LibraryManagementSystem/blob/main/6_Images/searchbook.png)
-
-### Delete books
-![img](https://github.com/PrakritigitHUB/M1_LibraryManagementSystem/blob/main/6_Images/deletebook.png)
-
-### Unit testing
-![img](https://github.com/PrakritigitHUB/M1_LibraryManagementSystem/blob/main/6_Images/unittest.png)
