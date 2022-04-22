@@ -82,7 +82,7 @@
 * ![Class Diagram]https://github.com/PrakritigitHUB/M2_HeatControlSystem/blob/main/2_Architecture/Class%20diagram.png
 
 ## BEHAVIORAL IMAGE
-* ![State Diagram]
+* ![State Diagram]https://github.com/PrakritigitHUB/M2_HeatControlSystem/blob/main/2_Architecture/State%20Diagram.jpg
 * ![Sequence Daigram]
 
 
