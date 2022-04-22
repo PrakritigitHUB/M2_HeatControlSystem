@@ -79,7 +79,7 @@
 
 ## STRUCTURAL IMAGE
 * ![Case Diagram]https://github.com/PrakritigitHUB/M2_HeatControlSystem/blob/main/2_Architecture/Case%20diagram.jpg
-* ![Class Diagram]
+* ![Class Diagram]https://github.com/PrakritigitHUB/M2_HeatControlSystem/blob/main/2_Architecture/Class%20diagram.png
 
 ## BEHAVIORAL IMAGE
 * ![State Diagram]
