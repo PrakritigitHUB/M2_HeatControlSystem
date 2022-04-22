@@ -31,3 +31,54 @@
 |5_Report|Generated Report|
 |6_ImagesandVideos|All the images and program execution video|
 
+
+
+
+
+
+
+
+# DESIGN
+
+## STRUCTURAL IMAGE
+* ![Case Diagram]https://github.com/PrakritigitHUB/M1_LibraryManagementSystem/blob/main/2_Design/case%20diag%202.png
+* ![Class Diagram]https://github.com/PrakritigitHUB/M1_LibraryManagementSystem/blob/main/2_Design/class%20diagram.png
+
+
+## BEHAVIORAL IMAGE
+* ![State Diagram]https://github.com/PrakritigitHUB/M1_LibraryManagementSystem/blob/main/2_Design/State%20diagram.png
+* ![Sequence Daigram]https://github.com/PrakritigitHUB/M1_LibraryManagementSystem/blob/main/2_Design/Sequence%20diagram.jpg
+
+
+
+# CODE IMPLEMENTATION
+* The code for Library Management System is written using C language, so that it is easy to be understood by the users,i.e. it becomes user-friendly.
+* This code consists of functions,pointers,etc. and also the file handling concept is used here.
+* The entire code is then written in the format of mutiple .c files and .h files.
+* The code is run and implemented and then it is converted to makefile so that it would run on any machine irrespective of the OS.
+* Unit Testing and code quality is also checked.
+* Code analysis and documentation is done.
+
+
+
+# Test Plan and Output
+
+## Screenshots
+
+### Add New books
+![img](https://github.com/PrakritigitHUB/M1_LibraryManagementSystem/blob/main/6_Images/addbook.png)
+
+### View books
+![img](https://github.com/PrakritigitHUB/M1_LibraryManagementSystem/blob/main/6_Images/viewbooks.png)
+
+### Issue books
+![img](https://github.com/PrakritigitHUB/M1_LibraryManagementSystem/blob/main/6_Images/issuebook.png)
+
+### Search books
+![img](https://github.com/PrakritigitHUB/M1_LibraryManagementSystem/blob/main/6_Images/searchbook.png)
+
+### Delete books
+![img](https://github.com/PrakritigitHUB/M1_LibraryManagementSystem/blob/main/6_Images/deletebook.png)
+
+### Unit testing
+![img](https://github.com/PrakritigitHUB/M1_LibraryManagementSystem/blob/main/6_Images/unittest.png)
