@@ -23,6 +23,19 @@
 * The functionality of the heat control system is coded in embedded c and the working is demonstrated using simuation in a software called SimulIDE.
 * Images shows the status of the simulation when the system is OFF and the status of the system when it is ON. 
 
+#### ON
+![ON](https://github.com/PrakritigitHUB/M2_HeatControlSystem/blob/main/6_Images/Simulation.gif)
+
+#### OFF
+![OFF](https://github.com/PrakritigitHUB/M2_HeatControlSystem/blob/main/6_Images/Simulation_OFF.png)
+
+### Output images
+|Circuit|RAM Table|
+|:--:|:--:|
+|![CIRCUIT](https://github.com/PrakritigitHUB/M2_HeatControlSystem/blob/main/6_Images/Circuit.gif)|![RAM_TABLE](https://github.com/PrakritigitHUB/M2_HeatControlSystem/blob/main/6_Images/RAM_table.gif)|
+|CRO|Serial Monitor|
+|![CRO](https://github.com/PrakritigitHUB/M2_HeatControlSystem/blob/main/6_Images/Oscilloscope.gif)|![ON](https://github.com/PrakritigitHUB/M2_HeatControlSystem/blob/main/6_Images/Serial_Monitor.gif)|
+
 ### Functionality 
 
 * When the two switches are closed, the first LED glows indicating the actuation of the system and the heater.
