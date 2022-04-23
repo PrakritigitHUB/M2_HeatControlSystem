@@ -80,8 +80,7 @@
 | HLR1 | Microcontroller |
 | HLR2 | Temperature Sensor |
 | HLR3 | LCD Display or LEDs |
-| HLR4 | Temprature Generation |
-| HLR5 | Softwares to Implement |
+| HLR4 | Softwares to Implement |
 
 ## LOW LEVEL REWUIREMENTS
 
@@ -91,7 +90,11 @@
 | LLR2 | LM35 and ADC |
 | LLR3 | ADC with PWM |
 | LLR4 | LCD OR LEDS |
-| LLR5 | Heat Pump Module |
-| LLR6 | Code Blocks with AVR GCC compiler |
+| LLR5 | Potentiometer |
+| LLR6 | AVR GCC compiler |
 | LLR7 | SimulIDE |
+| LLR8 | CRO |
+| LLR9 | Serial monitor |
+
+
 
