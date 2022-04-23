@@ -44,6 +44,6 @@
 * The corresponding temperature values based on the digitized temperature input is transmitted by the UART protocol. Here the data is displayed on the serial monitor.
 
 
-### CI and Code analysis
+### Badge
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/de2c45a066ad4d87a9160dec012fced7)](https://www.codacy.com/gh/PrakritiAloo/M2_HeatControlSystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=PrakritiAloo/M2_HeatControlSystem&amp;utm_campaign=Badge_Grade)
 
