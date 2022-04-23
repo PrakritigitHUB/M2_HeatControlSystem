@@ -66,13 +66,7 @@
 
 | **Requirements** | **Description** |
 | --- | --- |
-| LLR1 | ATmega328 |
-| LLR2 | LM35 and ADC |
-| LLR3 | ADC with PWM |
-| LLR4 | LCD OR LEDS |
-| LLR5 | Heat Pump Module |
-| LLR6 | Code Blocks with AVR GCC compiler |
-| LLR7 | SimulIDE |
+
 
 
 # DESIGN
